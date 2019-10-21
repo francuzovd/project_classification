@@ -1,5 +1,6 @@
 # project_classification
 Project from GeekBrains courses. Coal: predict loan default
+
 Ссылка на ноутбук в Colaboratory - https://colab.research.google.com/drive/1LaMdsmBEfPFLFKbL-FwEGR3G-g81g2lF
 
 Задача
